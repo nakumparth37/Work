@@ -1,0 +1,19 @@
+Algo of Adding two Numbers :-
+  
+   step :-1 Take two numbers from the use
+   Step:-2  Add the number which is taken from user
+   Step:-3 Show the Sum
+
+Algo of Finding area of Circle :-
+  
+   Step:-1 Take a the value of R from user
+   Step:-2  Put the value of R in [πR2]
+   Step:-3  Show the Area 
+   
+   
+Algo of Sum of All Even Numbers:-
+
+  Step:-1 Take number limit from user In N
+  Step:-2 Take for Loop like for (int i = 0; i<=N;i+=2)
+  Step:-3  Do Sum of  i +=i
+  Step:-4  Print the value of I
